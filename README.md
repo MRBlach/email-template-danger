@@ -84,4 +84,4 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ### You may also like..
 
-+ [HTML Email Template: warning notification](https://github.com/MRBlach/email-template-warning "example error email") - template for warning error email.
++ [HTML Email Template: caution notification](https://github.com/MRBlach/email-template-warning "example error email") - template for caution warning email.
