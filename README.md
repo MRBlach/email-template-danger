@@ -22,7 +22,7 @@ Example Danger HTML Email Template
 
 Responsive email template for danger notification. Let your client know something went wrong.
 
-<img src="https://i.ibb.co/9r7yLRn/viewport.png" alt="viewport" border="0">
+<img src="https://i.ibb.co/QXpTrsP/danger-Viewport.png" alt="danger-Viewport" border="0">
 
 Here is a working live demonstration: https://mrblach.github.io/email-template-danger/
 
@@ -84,4 +84,4 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ### You may also like..
 
-+ [HTML Email Template: caution notification](https://github.com/MRBlach/email-template-warning "example error email") - template for caution warning email.
++ [HTML Email Template: caution notification](https://github.com/MRBlach/email-template-warning "example error email") - template for caution email.
