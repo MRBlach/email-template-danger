@@ -24,7 +24,7 @@ Responsive email template for danger notification. Let your client know somethin
 
 <img src="https://i.ibb.co/QXpTrsP/danger-Viewport.png" alt="danger-Viewport" border="0">
 
-Here is a working live demonstration: https://mrblach.github.io/email-template-danger/
+Here is a working live [demonstration](https://mrblach.github.io/email-template-danger/)
 
 ### Steps To Execute This App
 - Download the entire code
